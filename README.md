@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yemregumus83@gmail.com**
 
-- ⚡ A little about me **I am passionate individual about technology, working out, cooking, and self-improvement.**
+- ⚡ A little about me: **I am passionate about technology, working out, cooking, and self-improvement.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
