@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Software Development for Robotics, Cross Platform Mobile App Development, and Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://yunusgumus.netlify.app/](https://yunusgumus.netlify.app/) and [https://github.com/yemregumus](https://github.com/yemregumus)
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://yunusgumus.netlify.app/) and [My Github Profile](https://github.com/yemregumus)
 
 - 💬 Ask me about **React.js, Next.js, Gen AI**
 
