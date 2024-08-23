@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yemregumus" alt="yemregumus" /></a> </p>
 
-- 🔭 I’m currently working on [IntelliCycles](https://github.com/yemregumus/IntelliCycles)
-
-- 🌱 I’m currently learning **Software Development for Robotics, Cross Platform Mobile App Development, and Cloud Computing**
+- 🌱 I’m currently learning *Cross Platform Mobile App Development, Web Development, and Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [My Portfolio Website](https://yunusgumus.netlify.app/) and [My Github Profile](https://github.com/yemregumus)
-
-- 💬 Ask me about **React.js, Next.js, Gen AI**
 
 - 📫 How to reach me **yemregumus83@gmail.com**
 
