@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yemregumus" alt="yemregumus" /></a> </p>
 
-- 🌱 I’m currently learning *Cross Platform Mobile App Development, Web Development, and Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [My Portfolio Website](https://yunusgumus.netlify.app/) and [My Github Profile](https://github.com/yemregumus)
 
